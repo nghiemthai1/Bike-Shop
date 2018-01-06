@@ -1,0 +1,11 @@
+Acme Bike Rentals manages rentals for various kinds of bikes. They keep track of
+such information as the bike’s number, make, model, type (racer, mountain bike,
+tandem, etc), gender (men’s/women’s), rental deposit, daily rental charge, renter
+information, etc. The shop sells or rents various accessories, such as bike helmets
+and detachable baskets. They also maintain customer records. When a bike is
+rented, the renter will specify the rental duration and will pay the bike’s deposit
+fee and the rental cost for the estimated rental duration. When the bike is
+returned late, additional rental charges are applied at the time of return. The
+shop will print a receipt for a rental which may consist of multiple items. When
+new bikes are ordered, an electronic list is provided to the bike shop to correspond
+to the shipment.

@@ -1,0 +1,30 @@
+Acme Bike Shop Inventory Records,,,,,,
+,,,,,,
+Bicycles,,,,,,
+,,,,,,
+Bike Type,Product Number ,Make,Model,WholesaleCost,Women's,# in Inventory
+,,,,,,
+MountainBike,NK1000,Nishiki,Pueblo Mountain Bike,300,N,3
+MountainBike,DB3705,Diamondback,Axis Mountain Bike,299.98,N,2
+MountainBike,DB9987,Diamondback,Lux Mountain Bike,304,Y,1
+Cruiser,CB7006,Columbia,Hampton Beach Cruiser,150,Y,5
+Cruiser,FS1025,Firmstrong,Urban Beach Cruiser,349.99,N,2
+Cruiser,FS0002,Firmstrong,Chief Beach Cruiser,269.99,N,4
+BMX,DB5878,Diamondback,Grind BMX Bike,199.99,N,2
+BMX,TT5598,Titan,Tomcat BMX Bike,16.99,N,1
+TandemBike,NW1000,Northwoods,21-Speed Dual Drive Tandem,279.99,N,0
+TandemBike,RC1964,Columbia,Rare Bicycle Built for Four,4980,N,1
+Unicycle,NI9612,Nimbus,20'' Unicycle,250,N,5
+Unicycle,NI0115,Nimbus,Eclipse 20'' Freestyle Unicycle,360,N,2
+,,,,,,
+Accessories,,,,,,
+,,,,,,
+Accessory Type,Product Number,Make,Model,Wholesale Cost,# in Inventory,
+,,,,,,
+Helmet,GR7749,Giro,Indicator,24.99,10,
+Helmet,BL8801,Bell,Reflex,65,6,
+Helmet,GR0245,Giro,Feather,95,6,
+AirPump,GN3364,Genuine Innovations,16G Non-Thread Co2 Pump,9.99,7,
+AirPump,BB6514,Blackburn,Airtower Floor Pump,24.99,6,
+Light,BB1594,Blackburn,Local 50 Front Bike Light,19.99,9,
+Light,BB1600,Blackburn,Central 300 Bike Headlight,59.99,1,
